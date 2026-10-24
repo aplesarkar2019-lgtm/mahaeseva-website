@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aplesarkar2019-lgtm.github.io/mahaeseva-website/sitemap.xml
